@@ -4,8 +4,8 @@
   "theme_color": "#ffc600",
   "background_color": "#ffc600",
   "display": "standalone",
-  "Scope": "/",
-  "start_url": "/",
+  "Scope": "/drum-pwa/",
+  "start_url": "/drum-pwa/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
